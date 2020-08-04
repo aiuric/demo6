@@ -14,7 +14,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		out!!~~
-		꺼져!!!
+		꺼져!!!q
 		ghgh
 		aa
 	}wewsss
@@ -23,5 +23,6 @@ public class DemoApplication {
 	11111
 	222
 	33
+	55
 
 }
