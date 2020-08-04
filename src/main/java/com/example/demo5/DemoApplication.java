@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 123
 456
+789
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		out!!~~
