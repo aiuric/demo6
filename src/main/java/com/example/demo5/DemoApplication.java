@@ -8,6 +8,7 @@ public class DemoApplication {
 123
 456
 789
+000
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		out!!~~
