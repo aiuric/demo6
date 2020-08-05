@@ -3,6 +3,8 @@ package com.example.demo5;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import sun.jvm.hotspot.runtime.aarch64.AARCH64CurrentFrameGuess;
+
 @SpringBootApplication
 public class DemoApplication {
 123
@@ -15,6 +17,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		out!!~~
+		AARCH64CurrentFrameGuess
 		꺼져!!!q
 		ghgh
 		aa
