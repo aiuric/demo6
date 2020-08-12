@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import sun.jvm.hotspot.runtime.aarch64.AARCH64CurrentFrameGuess;
 
 @SpringBootApplication
-public class DemoApplication {
+public class DemoApplication {ㅣㅣㅣ
 123
 456
 789
