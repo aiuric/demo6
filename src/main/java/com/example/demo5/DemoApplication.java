@@ -12,11 +12,7 @@ cccc
 ㅁㄴㅇㅁㅇㅁㄴㅇ
 public class DemoApplication {ㅣㅣㅣ
 123
-<<<<<<< HEAD
-456ㄷㄷㄷ
-=======
 456
->>>>>>> master
 789ㅅㅅㅅㅅ
 000
 3335555
