@@ -3,23 +3,30 @@ package com.example.demo5;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import sun.jvm.hotspot.runtime.aarch64.AARCH64CurrentFrameGuess;
+aaaa
+bbbbb
+cccc
 @SpringBootApplication
-public class DemoApplication {
+
+ㅁㄴㅇㅁㅇㅁㄴㅇ
+public class DemoApplication {ㅣㅣㅣ
 123
 456
-789
+789ㅅㅅㅅㅅ
 000
-333
+3335555
 444
 445
 666
-999
 
 777
 888
+999
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		out!!~~
+		AARCH64CurrentFrameGuess
 		꺼져!!!q
 		ghgh
 		aa
@@ -33,5 +40,6 @@ public class DemoApplication {
 	7777
 	3333
 	44
+	ㅁㄴㅇㅁㄴㅇ
 
 }
